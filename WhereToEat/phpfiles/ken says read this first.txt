@@ -1,0 +1,21 @@
+my name is kennedy linzie oooook
+
+
+first you have two choices either you run this in your local host or your web database or create one at a free hosting site.
+
+
+if you will run this on your local host then use the emurator android studio comes with
+
+if you are using a phone you will need to host this on a database somewhere on the web to test ths piece of code
+
+import the code run it in android studio if go into the code u will find places that have the urls u will need to change these accordingly
+
+now there is another folder with the php code make changes also to those according to what you have setting for your server  the name..password..database..and table
+
+for the database you can import the table i have give in the folder import it like so then enjoy hope it works
+
+
+its a login system that uses prefered preferences to keeep the use in the system it use a session manager...ENJOY!!!!!!!
+
+
+
